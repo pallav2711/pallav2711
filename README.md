@@ -24,31 +24,21 @@
 
 # 🚀 About Me
 
-```javascript
-const pallav = {
-  role: "Full Stack Developer",
-  education: "B.Tech CSE (AI & ML Specialization)",
-  focus: [
-    "AI Powered SaaS Products",
-    "MERN Stack Development",
-    "Real World Problem Solving"
-  ],
-  interests: [
-    "Web Development",
-    "Artificial Intelligence",
-    "Game Development",
-    "Open Source"
-  ],
-  technologies: {
-    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-    backend: ["Node.js", "Express.js", "FastAPI", "Python"],
-    databases: ["MongoDB", "MySQL"],
-    ai_ml: ["Scikit-learn", "Pandas", "NumPy", "TensorFlow"],
-    tools: ["Git", "Docker", "Vercel", "Postman"]
-  },
-  funFact: "I debug with console.log() and I'm proud of it 🐛"
-};
-```
+🚀 About Me
+
+🎓 B.Tech CSE (AI & ML Specialization)
+
+💻 Full Stack Developer focused on building scalable web applications and AI-powered products.
+
+🚀 Currently working on AI SaaS platforms, MERN stack development, and real-world problem solving.
+
+🧠 Interested in:
+
+Web Development
+Software Development
+Artificial Intelligence
+Open Source
+
 
 ---
 
