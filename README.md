@@ -116,23 +116,6 @@ Currently working on exciting new projects involving AI, game development, and i
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pallav2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallav2711&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav2711&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
 # 📈 Top Languages
 
 <p align="center">
