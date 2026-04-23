@@ -69,51 +69,67 @@ Open Source
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🚀 ProdFlow AI
-**AI Powered Sprint Planning & Team Analytics Platform**
+<div align="center">
 
-🔗 https://github.com/pallav2711/ProdFlow  
+### 🚀 [ProdFlow AI](https://github.com/pallav2711/ProdFlow)
+> **AI-Powered Sprint Planning & Team Performance Analytics Platform**
 
-**Tech Stack**
+[![GitHub Stars](https://img.shields.io/github/stars/pallav2711/ProdFlow?style=social)](https://github.com/pallav2711/ProdFlow/stargazers)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://prodflowaii.vercel.app)
 
-React • Node.js • MongoDB • Python • Machine Learning
+Transform agile workflow with intelligent predictions and real-time insights. Built with **React**, **Node.js**, **MongoDB**, **Python**, and **Machine Learning**.
 
-**Key Features**
+**Key Features:**
+- 🤖 AI-powered sprint success prediction
+- 📊 Real-time team performance analytics
+- 👥 Smart task assignment & workload optimization
+- 📈 Advanced clustering & risk assessment
 
-- AI sprint success prediction  
-- Team performance analytics  
-- Smart task assignment  
-- Risk analysis using ML  
-
----
-
-## 🎓 CrackIt AI
-
-**AI powered Job Preparation Platform**
-
-Features
-
-- AI Resume Builder  
-- Mock Interviews  
-- Coding Tests  
-- Career Mentor Chatbot  
-
-Tech
-
-React • Node.js • MongoDB • AI APIs
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `FastAPI` `Scikit-learn` `Pandas`
 
 ---
 
-# 📊 GitHub Stats
+### 🎓 CrackIt AI
+> **End-to-End Job Preparation SaaS Platform**
 
-<p align="center">
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](#)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pallav2711&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pallav2711&theme=tokyonight&hide_border=true"/>
+Comprehensive MERN stack platform helping students crack their dream jobs with AI-powered tools.
 
-</p>
+**Key Features:**
+- ✅ AI Resume Builder with ATS optimization
+- 🎤 Mock AI Interviews (HR, Technical, Company-specific)
+- 📝 Mock Tests (Aptitude, Coding, Logical Reasoning)
+- 🤖 24/7 AI Career Mentor
+- 📊 Progress Dashboard & Leaderboard
+
+**Tech Stack:** `React` `Node.js` `MongoDB` `OpenAI API` `Razorpay` `Tailwind CSS`
+
+---
+
+### 🎮 More Projects Coming Soon...
+Currently working on exciting new projects involving AI, game development, and innovative web solutions!
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pallav2711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pallav2711&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav2711&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+
+</div>
 
 ---
 
