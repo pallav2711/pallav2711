@@ -34,9 +34,9 @@
 
 🧠 Interested in:
 
-Web Development
-Software Development
-Artificial Intelligence
+Web Development / 
+Software Development / 
+Artificial Intelligence / 
 Open Source
 
 
