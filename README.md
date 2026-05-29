@@ -1,8 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d5c63,100:0a3d62&height=200&section=header&text=Pallav%20Kanani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=a8dadc&animation=fadeIn" />
-
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0d5c63&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship+🚀;React+%7C+Node.js+%7C+MongoDB+%7C+Express;AI-powered+apps+with+OpenAI+%26+Gemini;Open+to+exciting+opportunities!" />
 
