@@ -112,10 +112,8 @@ I'm a **MERN Stack Developer** and final-year B.Tech (CSE) student from **Gujara
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pallav2711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0d5c63&icon_color=0d5c63&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav2711&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0d5c63&text_color=c9d1d9" height="165"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pallav2711&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0d5c63&fire=0d5c63&currStreakLabel=0d5c63" />
+</div>
 ---
 
 ## 🤝 Let's Connect
@@ -127,6 +125,7 @@ I'm open to **internships**, **full-time roles**, and **freelance projects**. If
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallav-kanani-306b8b28b)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-0d5c63?style=for-the-badge&logo=vercel&logoColor=white)](https://pallav-kanani-27.vercel.app/)
 [![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavkanani27@gmail.com)
+
 
 </div>
 
