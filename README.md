@@ -113,9 +113,7 @@ I'm a **MERN Stack Developer** and final-year B.Tech (CSE) student from **Gujara
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pallav2711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0d5c63&icon_color=0d5c63&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav2711&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0d5c63&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pallav2711&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0d5c63&fire=0d5c63&currStreakLabel=0d5c63" />
 
 </div>
 
